@@ -1,0 +1,11 @@
+{
+  "name": "Yesno",
+  "description": "Displays Yes/No image (see: http://yesno.wtf/ )",
+  "keywords": [
+    "small",
+    "ruby",
+    "sinatra"
+  ],
+  "addons": [],
+  "env": {}
+}
